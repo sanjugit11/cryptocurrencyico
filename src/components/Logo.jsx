@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../static/images/logo-alysystem-oficial.png'
+import logo from '../static/images/capslogo.jpg'
 
 const Logo = () => {
   return (

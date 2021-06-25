@@ -8,7 +8,7 @@ const Contact = () => {
     <section className='l-section'>
       <Particles />
       <div className='global-max-content contact'>
-        <h2 className='global-title'>Estar en contacto</h2>
+        <h2 className='global-title'>share your contact</h2>
         <div className='contact-content'>
           <ContactHead />
           <ContactForm />

@@ -9,7 +9,7 @@ const About = () => {
       <div className='global-max-content about'>
         <h2 className='global-title-about' />
         <div className='about-content'>
-          <p className='about-paragraph'>AlySystem se dedica al desarrollo de aplicaciones móviles bajo la tecnología BlockChain para brindarle a los usuarios mayor transparencia y seguridad a la hora de utilizarlas ya que esta tecnología permite guardar registros, transacciones, clave, documentos, contratos inteligentes mas seguro gracias a la cadena de bloques que almacena la información de forma encriptada.</p>
+          <p className='about-paragraph'>hello from about</p>
         </div>
       </div>
     </Layout>

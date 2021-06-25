@@ -104,3 +104,21 @@
     left: 0;
     transition: .4s linear;
 }
+.navBtn{
+    width:70px ;
+    height:40px;
+    justify-content:center;
+     margin-Top:1px;
+     font-Size:15px;
+     text-decoration: none;
+     display: inline-block;
+     transition-duration: 0.4s;
+  cursor: pointer;
+     
+}
+.navBtn:hover {
+    // margin-top: 10px;
+    // background-color: #008CBA;
+    color: rgb(105, 192, 116);
+  }
+  

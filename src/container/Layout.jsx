@@ -5,7 +5,7 @@ const Layout = ({ title, description, children }) => {
   return (
     <Fragment>
       <Helmet>
-        {title && <title> {title} - El mundo en tus manos </title>}
+        {title && <title> {title} - El mundo en tus manos  kya yarr    </title>}
         {description && <mata name='description' content={description} />}
       </Helmet>
       <Fragment>
